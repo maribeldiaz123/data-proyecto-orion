@@ -1,0 +1,37 @@
+[
+    {
+        "store":{
+            "id":"",
+            "name":"",
+            "products":"",
+            "colors":"",
+            "componets":"",
+            "categories":"",
+            "pay methods":"",
+            "layouts":"",
+            "social media":"",
+            "data-user":"",
+            "promotions":"",
+
+
+            "functions":{
+                "function1":"comprar productos",
+                "function2":"vender productos",
+                "function3":"compartir tienda",
+                "function4":"crud tienda",
+                "function5":"crud productos",
+                "function6":"añadir al carrito",
+                "function7":"rastrear pedido",
+                "function8":"ver producto"
+
+            },
+            "relation":{
+                "relation1": "producto-tienda",
+                "relation2": "usuario-tienda"
+            
+            }
+
+            
+        }
+    }
+]

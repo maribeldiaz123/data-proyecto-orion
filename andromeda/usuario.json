@@ -1,0 +1,31 @@
+[
+    {
+        "user":{
+            "id":"",
+            "name":"",
+            "last name":"",
+            "age":"",
+            "email":"",
+            "phone":"",
+            "address":"",
+            "country":"",
+            "city":"",
+
+            "functions":{
+                "function1":"comprar productos",
+                "function2":"vender productos",
+                "function3":"crear tienda",
+                "function4":"crud tienda",
+                "function5":"crud productos"
+
+            },
+            "relation":{
+                "relation1": "producto-usuario",
+                "relation2": "usuario-tienda"
+            
+            }
+
+            
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "product":{
+
+            "id": "",
+            "name": "",
+            "price": "",
+            "description": "",
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "discount_price": "",
+            "shape": "",
+            "size": "",
+            "width": "",
+            "height": "",
+            "diameter": "",
+            "state": "",
+            "stock": "",
+            "color": "",
+            "tags": "",
+            "category": "",
+            "video": "",
+            "material": "",
+            "views": "",
+
+            "function":{
+
+                "function_1": "el producto puede ser comprado",
+                "function_2": "el producto puede ser añadido al carrito",
+                "function_3": "al producto se le puede hacer crud"
+
+            },
+
+            "relation":{
+                "relation1": "producto-usuario",
+                "relation2": "producto-tienda",
+                "relation3": "producto-categoria"
+            }
+        }
+    }
+]
